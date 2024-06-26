@@ -40,7 +40,7 @@
 - Krampoline ide
 - D2HUB
 - Kargo
-- Kubernetis
+- Kubernetes
 - Docker
 
 ## 프로젝트 소개
